@@ -1,0 +1,1122 @@
+{
+    "projects/image_reader/images/DVpage1.jpg": {
+        "image_name": "page1",
+        "category": "DiarioVea",
+        "text": "EJV. 1 OPEP optimista este recuperación del crudo 8 ERBLICTECA NAG @dario EMEROTECA Siguenos en nuestras redes sociales @diarioveavzia @diarioveavzla Diario VEA COMPROMETIDO CON VENEZUELA Caracas, jueves 20 de abril de 2017| Año 13- N ° 4.853 Precio: Lunes a Domingo Bs. 150 Depósito Legal: pp200301cs629/ ISSN: 1690-5601 Ni intervención ni injerencia Ayer, durante los actos conmemorativos de la proclamación de la independencia, el ministro de la Defensa, Vladimir Padrino López, reiteró que\" no aceptaremos ni intervencionismo ni injerencismo de nadie; somos libres y lo seguiremos siendo\". Pág. 3 en Venezuela Gobierno nacional de la violencia invita de nuevo al diálogo El presidente Nicolás Maduro convocó ayer nuevamente a los sectores de la oposición, a sentarse a dialogar sobre el futuro del país y por la paz de Venezuela, y nombró al alcalde de Caracas, Jorge Rodríguez, a la canciller Delcy Rodriguez, y al ministro de Educación, Elías Jaua, como los voceros para el diálogo nacional/ AVN. Pág. 3 La Organización de Estados Americanos sirve de\" sala de comando\" para incitar a la violencia en Venezuela, denunció ayer en Washington el vicecanciller Samuel Moncada, acusando al secretario general, Luis Almagro, de hacer llamados a\" la guerra civil\". TUTER/ 2 ▶ Lula favorito para las presidenciales 2018/10 ▶ Sedes de Conatel y Sundde atacadas por ordas fascistas/ 5 YA PUEDES INGRESAR A NUESTRA PÁGINA WEB WWW.DIARIOVEA.WEB.VE ttp: // www s",
+        "overall_sentiment": {
+            "sentiment": 0.2,
+            "magnitude": 1.9
+        },
+        "entity_sentiment": {
+            "LOCATION": {
+                "Venezuela": {
+                    "salience": 0.1492,
+                    "sentiment": 0.0,
+                    "magnitude": 0.2
+                },
+                "VENEZUELA Caracas": {
+                    "salience": 0.0305,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "Domingo Bs": {
+                    "salience": 0.0155,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "sala": {
+                    "salience": 0.0058,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Washington": {
+                    "salience": 0.0031,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                }
+            },
+            "OTHER": {
+                "EMEROTECA Siguenos": {
+                    "salience": 0.068,
+                    "sentiment": -0.1,
+                    "magnitude": 0.2
+                },
+                "diálogo": {
+                    "salience": 0.0387,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "EJV": {
+                    "salience": 0.0368,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "crudo": {
+                    "salience": 0.0303,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "intervencionismo": {
+                    "salience": 0.0298,
+                    "sentiment": -0.7,
+                    "magnitude": 1.4
+                },
+                "N": {
+                    "salience": 0.0236,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Precio": {
+                    "salience": 0.0236,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Lunes": {
+                    "salience": 0.0236,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "injerencia": {
+                    "salience": 0.0223,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "pp200301cs629": {
+                    "salience": 0.0184,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "ISSN": {
+                    "salience": 0.0184,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "violencia": {
+                    "salience": 0.0057,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Año 13": {
+                    "salience": 0.0155,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "nuevo": {
+                    "salience": 0.015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "sectores": {
+                    "salience": 0.015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Depósito Legal": {
+                    "salience": 0.0121,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "independencia": {
+                    "salience": 0.009,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "proclamación": {
+                    "salience": 0.009,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "PÁGINA": {
+                    "salience": 0.0079,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "voceros": {
+                    "salience": 0.0071,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "futuro": {
+                    "salience": 0.0071,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "paz": {
+                    "salience": 0.0071,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "comando": {
+                    "salience": 0.0058,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "ordas": {
+                    "salience": 0.0057,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "guerra civil": {
+                    "salience": 0.0047,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Sundde": {
+                    "salience": 0.0037,
+                    "sentiment": 0.3,
+                    "magnitude": 0.3
+                }
+            },
+            "EVENT": {
+                "recuperación": {
+                    "salience": 0.0303,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "intervención": {
+                    "salience": 0.0223,
+                    "sentiment": -0.7,
+                    "magnitude": 0.7
+                },
+                "actos": {
+                    "salience": 0.0184,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                }
+            },
+            "ORGANIZATION": {
+                "redes sociales": {
+                    "salience": 0.0303,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Gobierno": {
+                    "salience": 0.015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "OPEP": {
+                    "salience": 0.0127,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Sedes": {
+                    "salience": 0.0057,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "AVN": {
+                    "salience": 0.0047,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Organización de Estados Americanos": {
+                    "salience": 0.0038,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Conatel": {
+                    "salience": 0.0037,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                }
+            },
+            "WORK_OF_ART": {
+                "Diario": {
+                    "salience": 0.0303,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                }
+            },
+            "PERSON": {
+                "presidente": {
+                    "salience": 0.015,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "oposición": {
+                    "salience": 0.015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Jorge Rodríguez": {
+                    "salience": 0.0118,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "ministro de la Defensa": {
+                    "salience": 0.0109,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "Nicolás Maduro": {
+                    "salience": 0.0099,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "nadie": {
+                    "salience": 0.009,
+                    "sentiment": -0.7,
+                    "magnitude": 0.7
+                },
+                "ministro de Educación": {
+                    "salience": 0.0085,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "alcalde": {
+                    "salience": 0.0071,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "canciller": {
+                    "salience": 0.0071,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Vladimir Padrino López": {
+                    "salience": 0.0059,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "vicecanciller": {
+                    "salience": 0.0047,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "secretario general": {
+                    "salience": 0.0047,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Elías Jaua": {
+                    "salience": 0.0047,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Lula": {
+                    "salience": 0.0037,
+                    "sentiment": 0.5,
+                    "magnitude": 0.5
+                },
+                "Samuel Moncada": {
+                    "salience": 0.0031,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Luis Almagro": {
+                    "salience": 0.0031,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                }
+            },
+            "CONSUMER_GOOD": {
+                "WEB WWW.DIARIOVEA.WEB.VE ttp: // www s": {
+                    "salience": 0.0037,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "TUTER/ 2": {
+                    "salience": 0.0029,
+                    "sentiment": 0.5,
+                    "magnitude": 0.5
+                }
+            }
+        }
+    },
+    "projects/image_reader/images/TCpage2.jpg": {
+        "image_name": "page2",
+        "category": "TalCual",
+        "text": "4 TalCual GOLPE NO, ELECCIONES SÍ El martes 18 de abril corrió por las redes sociales el video de tres militares venezolanos de bajo rango des conociendo la autoridad del Presidente. Ese mismo día, Nicolás Maduro aseguró que se estaba desmantelando un\" complot\" para derrocarlo, al detener a un cabecilla y perseguir a un grupo de efectivos\" que estarían vía Colombia\" además de unos oficiales retirados. El supuesto cabecilla es el vicealmirante retirado Manuel Pérez Rodríguez, comandante de la Infantería de Marina hasta 2014 cuando fue dado de baja luego de denunciar a sus superiores la actuación conjunta de civiles armados y la Policía Nacional Bolivariana en labores de represión. En 2016 llevó los señalamientos a la Asamblea Nacional y agregó que en los cuarteles hay\" injerencia cubana\". El Presidente también aseguró que el Parlamento había ordenado a la Fuerza Armada desconocer su mando, que la oposición contrató sicarios para causar muertes y acusó a diputados del partido Primero Justicia de finan ciar operaciones violentas y de terrorismo en Caracas, según supuestas confesiones de algunos capturados. La oposición aseguró que a los detenidos los torturaron para\" sacarles\" tales afirmaciones. El periodista Javier Ignacio Mayorca, integrante del Observatorio Venezolano de Crímen Organizado, afirma que\" desde marzo pasado están siendo ventilados ante los juzgados militares de Caracas dos grandes casos que involucran a oficiales activos del Ejército. Ya no son generales o coroneles sino oficiales subalternos. El último caso involucra a más de veinte. Básicamente tenientes y primeros tenientes. Les imputan rebelión mi litar y traición a la Patria. Es el mismo expediente en el que aparece investigado el general de brigada retirado Ángel Vivas. Tres de los señalados habrían desertado, e incluso se investiga si salieron del país. Los demás permanecen recluidos en la cárcel de Ramo Verde\". Pero en la oposición política ni se habla de ello.\" No puede llamarse golpista a quienes estamos pidiendo elecciones libres\", insistió el miércoles Henrique Capri les cuando llamó a continuar las protestas en la calle pues\" ante el Plan Zamora tenemos el Plan Constitu ción. A más represión más lucha\". Las protestas ya no ocurren solo por convocatoria par tidista, sino que se producen espontáneamente en dis tintas ciudades del país, obligando a la represión incluso en horas de la madrugada. Así ocurrió en El Paraíso, El Valle y Antímano en Caracas, el miércoles en la noche y hasta la madrugada del jueves, por ejemplo. El presidente Nicolás Maduro aseguró el martes 18 que el Departamento de Estado de EEUU y el gobierno de\" derecha radical\" de Donald Trump habrían dado\" luz verde\" a los opositores para intentar derrocarlo. Ese mismo día se conoció la donación de 500 mil dólares que hizo el gobierno venezolano para la investidura del nuevo Presidente norteamericano. Las autoridades venezolanas han mostrado un cambio notable en su trato con la Casa Blanca, pues antes Maduro llegó a decir que Trump estaba\" engañado\" con respecto a Venezuela. POLÍTICA MANIFESTACIONES SE PRODUCEN AUN SIN CONVOCATORIA PÚBLICA| DE LA DIRIGENCIA IN A MURNLE( 141) Las protestas no paran y la respuesta es la actuación de uniformados y civiles armados Un día y una orden basta ron. Con la activación del Plan Zamora, el saldo de muertos en protestas con tra Nicolás Maduro sumó casi 50% de las víctimas en tan solo una jornada, con tres nuevos nombres para un total de ocho, hasta el 19 de abril. El martes, el presidente GLON Nicolás Maduro activó la operación que involu cra a militares, policías, milicia y civiles para\" garantizar el orden pú blico\", en su fase verde, horas antes de\" la madre de todas las marchas\". Al día siguiente se impuso la represión y se produ jeron los tres asesinatos además de 521 arrestos en todo el país, según la Pueblo aguanta cruda represión dictatorial Del 21 al 26/ abril/ 2017 ONG Foro Penal, para un total de 1.000 detenciones en apenas dos semanas. Necesitas un en voz del Ministro de Interior, Néstor Reverol, que el supuesto autor material fue apresado y es antichavista. El primero de los caídos el miércoles fue el oposi tor Carlos José Moreno, de 17 años y estudiante DCNE hace silencio cómplice al El tercer muerto fue un guardia nacional, el no brindar respuesta institucional universitario, que fue sargento Niumar José ante reclamo electoral popular VICTOR AMAYA Barrios, quien recibió un disparo en el rostro durante una protesta que se tornó violenta en San Antonio de los Altos, adyacente a Caracas. Se trató del primer militar muerto en las protestas que ya acumulan 20 días en Venezuela, y casi 50 efectivos policiales o mi litares heridos. La lista de fallecidos en este mes de abril en medio de protestas ya asesinado por un disparo a la cabeza desde atrás du rante un ataque de colec tivos chavistas a una de la veintena de concentra ciones del antichavismo en la capital. La segunda víctima cayó en Táchira, frontera con Colombia. Un disparo a la cabeza acabó la vida de Paola Ramírez, de 23 años. El Gobierno afirmó, desde la noche del miér coles y de nuevo el jueves nekso Tiples",
+        "overall_sentiment": {
+            "sentiment": 0.1,
+            "magnitude": 6.3
+        },
+        "entity_sentiment": {
+            "PERSON": {
+                "Presidente": {
+                    "salience": 0.2717,
+                    "sentiment": -0.1,
+                    "magnitude": 0.9
+                },
+                "Nicolás Maduro": {
+                    "salience": 0.0743,
+                    "sentiment": -0.2,
+                    "magnitude": 4.4
+                },
+                "cabecilla": {
+                    "salience": 0.0524,
+                    "sentiment": -0.1,
+                    "magnitude": 0.5
+                },
+                "efectivos": {
+                    "salience": 0.0006,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "militares": {
+                    "salience": 0.0008,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "vicealmirante": {
+                    "salience": 0.0118,
+                    "sentiment": -0.6,
+                    "magnitude": 1.2
+                },
+                "Javier Ignacio Mayorca": {
+                    "salience": 0.0079,
+                    "sentiment": 0.2,
+                    "magnitude": 0.6
+                },
+                "capturados": {
+                    "salience": 0.0075,
+                    "sentiment": -0.1,
+                    "magnitude": 0.2
+                },
+                "oficiales": {
+                    "salience": 0.001,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "civiles": {
+                    "salience": 0.0048,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "oposición": {
+                    "salience": 0.0043,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "muertos": {
+                    "salience": 0.0032,
+                    "sentiment": -0.3,
+                    "magnitude": 0.7
+                },
+                "Manuel Pérez Rodríguez": {
+                    "salience": 0.0031,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "diputados": {
+                    "salience": 0.0027,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "periodista": {
+                    "salience": 0.0022,
+                    "sentiment": 0.3,
+                    "magnitude": 0.3
+                },
+                "tidista": {
+                    "salience": 0.0014,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "Ministro de Interior": {
+                    "salience": 0.0012,
+                    "sentiment": -0.1,
+                    "magnitude": 0.3
+                },
+                "general de brigada": {
+                    "salience": 0.0011,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "Donald Trump": {
+                    "salience": 0.001,
+                    "sentiment": -0.1,
+                    "magnitude": 0.3
+                },
+                "opositores": {
+                    "salience": 0.001,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "litar": {
+                    "salience": 0.001,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "Henrique Capri": {
+                    "salience": 0.001,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Carlos José Moreno": {
+                    "salience": 0.0009,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "militar": {
+                    "salience": 0.0008,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "autoridades": {
+                    "salience": 0.0008,
+                    "sentiment": -0.7,
+                    "magnitude": 0.7
+                },
+                "madre": {
+                    "salience": 0.0007,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Tres": {
+                    "salience": 0.0007,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "demás": {
+                    "salience": 0.0007,
+                    "sentiment": 0.5,
+                    "magnitude": 0.5
+                },
+                "víctimas": {
+                    "salience": 0.0007,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "policías": {
+                    "salience": 0.0006,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "víctima": {
+                    "salience": 0.0006,
+                    "sentiment": -0.8,
+                    "magnitude": 0.8
+                },
+                "uniformados": {
+                    "salience": 0.0006,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Pueblo": {
+                    "salience": 0.0005,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "fallecidos": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Ángel Vivas": {
+                    "salience": 0.0005,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "sargento": {
+                    "salience": 0.0004,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "guardia nacional": {
+                    "salience": 0.0004,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "cómplice": {
+                    "salience": 0.0004,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "caídos": {
+                    "salience": 0.0004,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "Paola Ramírez": {
+                    "salience": 0.0003,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "Néstor Reverol": {
+                    "salience": 0.0003,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "DCNE": {
+                    "salience": 0.0003,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                }
+            },
+            "LOCATION": {
+                "venezolano": {
+                    "salience": 0.101,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Caracas": {
+                    "salience": 0.0385,
+                    "sentiment": 0.0,
+                    "magnitude": 0.4
+                },
+                "Colombia": {
+                    "salience": 0.0049,
+                    "sentiment": 0.0,
+                    "magnitude": 0.3
+                },
+                "San Antonio de los Altos": {
+                    "salience": 0.0017,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "calle": {
+                    "salience": 0.0015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Observatorio Venezolano de Crímen Organizado": {
+                    "salience": 0.0015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "ciudades": {
+                    "salience": 0.0014,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "El Paraíso": {
+                    "salience": 0.0009,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "El Valle": {
+                    "salience": 0.0009,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Antímano": {
+                    "salience": 0.0009,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "EEUU": {
+                    "salience": 0.0009,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "cárcel": {
+                    "salience": 0.0007,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "capital": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "frontera": {
+                    "salience": 0.0005,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "Táchira": {
+                    "salience": 0.0003,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                }
+            },
+            "EVENT": {
+                "protestas": {
+                    "salience": 0.0104,
+                    "sentiment": -0.7,
+                    "magnitude": 0.7
+                },
+                "ELECCIONES": {
+                    "salience": 0.0138,
+                    "sentiment": -0.6,
+                    "magnitude": 0.6
+                },
+                "TalCual GOLPE": {
+                    "salience": 0.0075,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "actuación": {
+                    "salience": 0.001,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "disparo": {
+                    "salience": 0.004,
+                    "sentiment": -0.1,
+                    "magnitude": 0.6
+                },
+                "muertes": {
+                    "salience": 0.0038,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "operaciones": {
+                    "salience": 0.0033,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "confesiones": {
+                    "salience": 0.0027,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "partido": {
+                    "salience": 0.0027,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "convocatoria": {
+                    "salience": 0.0017,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "operación": {
+                    "salience": 0.0015,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "elecciones": {
+                    "salience": 0.0008,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "protesta": {
+                    "salience": 0.0008,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "investidura": {
+                    "salience": 0.0006,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "jornada": {
+                    "salience": 0.0005,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "activación": {
+                    "salience": 0.0005,
+                    "sentiment": -0.6,
+                    "magnitude": 0.6
+                },
+                "arrestos": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "asesinatos": {
+                    "salience": 0.0005,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "detenciones": {
+                    "salience": 0.0005,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "primero": {
+                    "salience": 0.0004,
+                    "sentiment": -0.6,
+                    "magnitude": 0.6
+                },
+                "ataque": {
+                    "salience": 0.0003,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                }
+            },
+            "OTHER": {
+                "autoridad": {
+                    "salience": 0.0118,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "respuesta": {
+                    "salience": 0.0007,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "rango": {
+                    "salience": 0.0114,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "complot": {
+                    "salience": 0.0103,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "represión": {
+                    "salience": 0.0009,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "señalamientos": {
+                    "salience": 0.0051,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "baja": {
+                    "salience": 0.0048,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "labores": {
+                    "salience": 0.0048,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Plan Constitu ción": {
+                    "salience": 0.0041,
+                    "sentiment": -0.1,
+                    "magnitude": 0.3
+                },
+                "sicarios": {
+                    "salience": 0.0039,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "cuarteles": {
+                    "salience": 0.0031,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "injerencia": {
+                    "salience": 0.0031,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "casos": {
+                    "salience": 0.003,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "tenientes": {
+                    "salience": 0.0029,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "mando": {
+                    "salience": 0.0027,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "terrorismo": {
+                    "salience": 0.0027,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "expediente": {
+                    "salience": 0.0026,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "afirmaciones": {
+                    "salience": 0.0024,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "orden": {
+                    "salience": 0.0019,
+                    "sentiment": -0.1,
+                    "magnitude": 0.4
+                },
+                "lucha": {
+                    "salience": 0.0014,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "ejemplo": {
+                    "salience": 0.0013,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "derecha": {
+                    "salience": 0.0013,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "rebelión": {
+                    "salience": 0.0013,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "oposición": {
+                    "salience": 0.0011,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "caso": {
+                    "salience": 0.0011,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "coroneles": {
+                    "salience": 0.001,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "señalados": {
+                    "salience": 0.0009,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "traición": {
+                    "salience": 0.0008,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "respecto": {
+                    "salience": 0.0008,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "cabeza": {
+                    "salience": 0.0008,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "donación": {
+                    "salience": 0.0008,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "ciones": {
+                    "salience": 0.0008,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "saldo": {
+                    "salience": 0.0007,
+                    "sentiment": -0.6,
+                    "magnitude": 0.6
+                },
+                "oposi": {
+                    "salience": 0.0007,
+                    "sentiment": -0.5,
+                    "magnitude": 0.5
+                },
+                "total": {
+                    "salience": 0.0005,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "nuevo": {
+                    "salience": 0.0007,
+                    "sentiment": 0.4,
+                    "magnitude": 0.4
+                },
+                "silencio": {
+                    "salience": 0.0006,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "colec": {
+                    "salience": 0.0006,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "luz": {
+                    "salience": 0.0006,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "coles": {
+                    "salience": 0.0006,
+                    "sentiment": 0.6,
+                    "magnitude": 0.6
+                },
+                "trato": {
+                    "salience": 0.0006,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "nombres": {
+                    "salience": 0.0005,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "tra": {
+                    "salience": 0.0005,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "marchas": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "fase": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "blico": {
+                    "salience": 0.0005,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "antichavismo": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "veintena": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "una": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "lista": {
+                    "salience": 0.0005,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "medio": {
+                    "salience": 0.0005,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "vida": {
+                    "salience": 0.0005,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "cambio": {
+                    "salience": 0.0005,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "Foro": {
+                    "salience": 0.0004,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "voz": {
+                    "salience": 0.0004,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "rostro": {
+                    "salience": 0.0004,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                },
+                "tercer": {
+                    "salience": 0.0004,
+                    "sentiment": -0.7,
+                    "magnitude": 0.7
+                }
+            },
+            "ORGANIZATION": {
+                "redes sociales": {
+                    "salience": 0.0114,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "Fuerza Armada": {
+                    "salience": 0.0098,
+                    "sentiment": 0.0,
+                    "magnitude": 0.1
+                },
+                "Policía Nacional Bolivariana": {
+                    "salience": 0.0038,
+                    "sentiment": -0.4,
+                    "magnitude": 0.4
+                },
+                "Infantería de Marina": {
+                    "salience": 0.0031,
+                    "sentiment": -0.2,
+                    "magnitude": 0.4
+                },
+                "gobierno": {
+                    "salience": 0.0028,
+                    "sentiment": -0.2,
+                    "magnitude": 0.4
+                },
+                "Parlamento": {
+                    "salience": 0.0027,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "juzgados": {
+                    "salience": 0.0022,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Asamblea Nacional": {
+                    "salience": 0.002,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Primero Justicia": {
+                    "salience": 0.0018,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Ejército": {
+                    "salience": 0.0011,
+                    "sentiment": 0.1,
+                    "magnitude": 0.1
+                },
+                "milicia": {
+                    "salience": 0.0008,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                },
+                "Gobierno": {
+                    "salience": 0.0007,
+                    "sentiment": 0.7,
+                    "magnitude": 0.7
+                },
+                "Departamento de Estado": {
+                    "salience": 0.0006,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                },
+                "Ramo Verde": {
+                    "salience": 0.0005,
+                    "sentiment": 0.2,
+                    "magnitude": 0.2
+                },
+                "Casa Blanca": {
+                    "salience": 0.0004,
+                    "sentiment": 0.0,
+                    "magnitude": 0.0
+                }
+            },
+            "WORK_OF_ART": {
+                "video": {
+                    "salience": 0.0114,
+                    "sentiment": -0.3,
+                    "magnitude": 0.3
+                },
+                "Niumar José ante reclamo electoral popular VICTOR AMAYA Barrios": {
+                    "salience": 0.0013,
+                    "sentiment": -0.4,
+                    "magnitude": 0.8
+                },
+                "POLÍTICA MANIFESTACIONES SE PRODUCEN AUN SIN CONVOCATORIA PÚBLICA| DE LA DIRIGENCIA IN A MURNLE": {
+                    "salience": 0.0005,
+                    "sentiment": -0.1,
+                    "magnitude": 0.1
+                }
+            },
+            "CONSUMER_GOOD": {
+                "ron": {
+                    "salience": 0.0006,
+                    "sentiment": -0.2,
+                    "magnitude": 0.2
+                }
+            }
+        }
+    }
+}
